@@ -1,5 +1,10 @@
 line 1 added
 w 1
+line 2 modified
 w 2
 w 3
 line 5 added
+line 4 modified
+w 3
+new line added comit 3
+additional line commit 4
