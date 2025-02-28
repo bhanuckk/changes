@@ -3,3 +3,4 @@ line 2 modified
 w 2
 line 4 modified
 w 3
+new line added comit 3
